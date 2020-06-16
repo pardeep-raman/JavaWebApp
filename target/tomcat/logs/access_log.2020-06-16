@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [16/Jun/2020:10:24:10 +0530] "GET /JavaWebApp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [16/Jun/2020:10:24:10 +0530] "GET /JavaWebApp/ HTTP/1.1" 304 - http-bio-8080-exec-3 11
+0:0:0:0:0:0:0:1 - - [16/Jun/2020:10:24:14 +0530] "GET /JavaWebApp/welcome.jsp?uname=pardeep HTTP/1.1" 200 15 http-bio-8080-exec-4 464
+0:0:0:0:0:0:0:1 - - [16/Jun/2020:10:41:59 +0530] "GET /JavaWebApp/welcome.jsp?uname=raman HTTP/1.1" 200 13 http-bio-8080-exec-6 13
